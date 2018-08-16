@@ -1,5 +1,3 @@
-## Background
-
 ## Heroes of Pymoli
 
 ![Fantasy](Images/Fantasy.jpg)
