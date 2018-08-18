@@ -2,7 +2,7 @@
 
 ![Fantasy](Images/Fantasy.jpg)
 
-The Jupyter Notebook file contained within this repository analyses a dataset of game data from a fictional game titled 'Heroes of Pymoli'. It then generates a report using the pandas library.
+The Jupyter Notebook file contained within this repository analyses a dataset of game data from a fictional game titled 'Heroes of Pymoli'. It then generates a report using the Pandas library.
 
 The final report includes each of the following:
 
