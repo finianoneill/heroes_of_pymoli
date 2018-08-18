@@ -2,11 +2,9 @@
 
 ![Fantasy](Images/Fantasy.jpg)
 
-Congratulations! After a lot of hard work in the data munging mines, you've landed a job as Lead Analyst for an independent gaming company. You've been assigned the task of analyzing the data for their most recent fantasy game Heroes of Pymoli.
+The Jupyter Notebook file contained within this repository analyses a dataset of game data from a fictional game titled 'Heroes of Pymoli'. It then generates a report using the pandas library.
 
-Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. As a first task, the company would like you to generate a report that breaks down the game's purchasing data into meaningful insights.
-
-Your final report should include each of the following:
+The final report includes each of the following:
 
 ### Player Count
 
